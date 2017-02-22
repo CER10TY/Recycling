@@ -1,0 +1,13 @@
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\bin\Debug\Recycler Management System.exe.config
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\bin\Debug\Recycler Management System.exe
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\bin\Debug\Recycler Management System.pdb
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\obj\Debug\MainWindow.g.cs
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\obj\Debug\App.g.cs
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\obj\Debug\Recycler Management System_MarkupCompile.cache
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\obj\Debug\Recycler Management System_MarkupCompile.lref
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\obj\Debug\MainWindow.baml
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\obj\Debug\Recycler Management System.g.resources
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\obj\Debug\Recycler_Management_System.Properties.Resources.resources
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\obj\Debug\Recycler Management System.csproj.GenerateResource.Cache
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\obj\Debug\Recycler Management System.exe
+c:\users\sören\documents\visual studio 2015\Projects\Recycler Management System\Recycler Management System\obj\Debug\Recycler Management System.pdb
