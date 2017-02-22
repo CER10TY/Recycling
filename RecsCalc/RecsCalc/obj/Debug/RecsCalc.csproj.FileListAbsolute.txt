@@ -1,0 +1,14 @@
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\bin\Debug\RecsCalc.exe.config
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\RecsCalc.csprojResolveAssemblyReference.cache
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\MainWindow.g.cs
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\App.g.cs
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\RecsCalc_MarkupCompile.cache
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\RecsCalc_MarkupCompile.lref
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\bin\Debug\RecsCalc.exe
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\bin\Debug\RecsCalc.pdb
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\MainWindow.baml
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\RecsCalc.g.resources
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\RecsCalc.Properties.Resources.resources
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\RecsCalc.csproj.GenerateResource.Cache
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\RecsCalc.exe
+c:\users\sören\documents\visual studio 2015\Projects\RecsCalc\RecsCalc\obj\Debug\RecsCalc.pdb
