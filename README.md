@@ -1,0 +1,6 @@
+# Recycling Management
+
+Jetzt auch mit Copy-Paste, um es ein wenig weniger nutzlos zu gestalten.
+
+MD5: BD80DBA655852B37C21FF770034C5AE6
+SHA256: F1F5523AF07235758DBAD1546F22377185A4B6488286099100F47E4C39DC271D
